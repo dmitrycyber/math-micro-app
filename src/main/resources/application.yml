@@ -1,0 +1,5 @@
+server:
+  port: 8456
+spring:
+  application:
+    name: MATH
